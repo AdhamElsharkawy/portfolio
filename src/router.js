@@ -8,7 +8,8 @@ import notfound from './views/MainErrorPage.vue';
 import ngl from './views/MainNGL.vue';
 
 export default createRouter({
-	history: createWebHistory(),
+
+	history: createWebHistory('/portfolio/'),
 	routes: [
 		{
 			path: '/',
