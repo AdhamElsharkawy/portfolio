@@ -7,14 +7,14 @@ This is my portfolio powered by Vue3, TailwindCSS, ThreeJS and AnimeJS.
 View the production deployment of this project on [here](https://kuon-dev-portfolio.vercel.app)
 
 <h2 align="center">
-  <img src="./doc/preview.png" alt="preview" />
+  <img src="public\assets\images\preview.png" alt="preview" />
   <br>
 </h2>
 
 
 ## Featrues 
-- Dark and Light mode
-- 3D Model of a developer
+- Dark and Light mode 
+- 3D Model of a developer 
 - Responsive design
 
 
