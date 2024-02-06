@@ -10,26 +10,32 @@ import ngl from './views/MainNGL.vue';
 export default createRouter({
 	history: createWebHistory(),
 	routes: [
+		//redirect / to /portfolio
 		{
 			path: '/',
+			redirect: '/portfolio'
+		},
+
+		{
+			path: '/portfolio',
 			name: 'homepg',
 			component: Home,
 			props: true
 		},
 		{
-			path: '/work',
+			path: '/portfolio/work',
 			name: 'work',
 			component: Work,
 			props: true
 		},
 		{
-			path: '/skills',
+			path: '/portfolio/skills',
 			name: 'skills',
 			component: Skills,
 			props: true
 		},
 		{
-			path: '/contact',
+			path: '/portfolio/contact',
 			name: 'contact',
 			component: contact,
 			props: true

@@ -1,13 +1,13 @@
 [
     {
-        "Image": "./assets/images/ags.png",
+        "Image": "./portfolio/assets/images/ags.png",
         "Title": "AGS Website",
         "Description": "AGS is a school located in UAE, the purpose of this website is to provide information about the school and to provide a platform for students to access their online learning materials",
         "Github": "#",
         "Tags": ["Laravel", "PHP", "MySQL", "BootStrap", "API"]
     },
     {
-        "Image": "./assets/images/cms1.png",
+        "Image": "./portfolio/assets/images/cms1.png",
         "Title": "Hello Voice CMS",
         "Description": "Hellovoice is a content management system that allows users to create, edit and delete articles. The CMS also allows users to create and manage categories and tags",
         "Sidenote": "",
@@ -15,7 +15,7 @@
         "Tags": ["Vue3", "PimeVue", "TailwindCSS", "Laravel", "API"]
     },
     {
-        "Image": "./assets/images/cms2.png",
+        "Image": "./portfolio/assets/images/cms2.png",
         "Title": "Event CMS",
         "Description": "content management For event system that allows users to create, edit and delete articles. The CMS also allows users to create and manage categories and tags",
         "Sidenote": "",

@@ -67,7 +67,7 @@ export default {
 	},
 
 	setup(props) {
-		const svgSource = './assets/theme.svg';
+		const svgSource = './portfolio/assets/theme.svg';
 
 		const isShowingThemeOverlay = ref(false);
 
