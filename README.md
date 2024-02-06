@@ -3,7 +3,6 @@
 
 This is my portfolio powered by Vue3, TailwindCSS, ThreeJS and AnimeJS.
 
-All of the features within this project are frontend only, there are no involvement with any backend frameworks or similar.
 
 View the production deployment of this project on [here](https://kuon-dev-portfolio.vercel.app)
 
@@ -14,42 +13,25 @@ View the production deployment of this project on [here](https://kuon-dev-portfo
 
 
 ## Featrues 
-- Interactive 3D model and UI
-- Auto code typing + custom syntax highlighting
-- Highly customizable with theme selector
-- Flexible responsive design 
+- Dark and Light mode
+- 3D Model of a developer
+- Responsive design
+
 
 ---
 
 ## Prerequisites
 `Git` and `NodeJS` is required. I recommend installing both of these programs through a package manager.
 
-- For Windows, I recommend using `Scoop` [click here](https://scoop.sh)
-- For Mac, I recommend using `Homebrew`
-- For Linux, use your own distro package manager or `Homebrew` also works
-
-Assuming you are using `Scoop`, you can install the programs through typing these commands on your terminal
-```bash
-scoop install git
-scoop install nodejs
-```
-
-For Mac, if you are using `Homebrew`, it will be
-```bash
-brew install git
-brew install <programs> # replace it with the programs to install
-```
-
----
 ## Get started
 Fork this project on Git, after forking the project, clone it into your own local machine.
 ```bash
-git clone https://github.com/<your-git-username>/kuon-portfolio.git
+git clone https://github.com/AdhamElsharkawy/portfolio.git
 ```
 
 initialize the project
 ```bash
-cd kuon-portfolio
+cd portfolio
 npm install
 ```
 
