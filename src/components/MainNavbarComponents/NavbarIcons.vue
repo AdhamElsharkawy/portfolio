@@ -27,7 +27,7 @@
     <div v-else-if="selectedIcon === 'gitSource'">
       <button
         class="border-2 rounded-md p-[0.35rem] svg_border"
-        onclick="window.open('https://github.com/Kuon-dev/kuon-portfolio/tree/main');"
+        onclick="window.open('https://github.com/AdhamElsharkawy');"
       >
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
@@ -58,12 +58,12 @@ export default {
 		selectedIcon: {
 			type: String,
 			required: false,
-			default: null,
-		},
+			default: null
+		}
 	},
 
 	components: {
-		MainThemeSelector,
+		MainThemeSelector
 	},
 
 	setup(props) {
@@ -83,24 +83,24 @@ export default {
 			svgSource,
 			toggleThemeOverlay,
 			isShowingThemeOverlay,
-			closeThemeOverlay,
+			closeThemeOverlay
 		};
-	},
+	}
 };
 </script>
 
 <style>
-.slide-fade-enter-active {
-  transition: all 0.3s ease-out;
-}
+  .slide-fade-enter-active {
+    transition: all 0.3s ease-out;
+  }
 
-.slide-fade-leave-active {
-  transition: all 0.8s cubic-bezier(1, 0.5, 0.8, 1);
-}
+  .slide-fade-leave-active {
+    transition: all 0.8s cubic-bezier(1, 0.5, 0.8, 1);
+  }
 
-.slide-fade-enter-from,
-.slide-fade-leave-to {
-  transform: translateX(20px);
-  opacity: 0;
-}
+  .slide-fade-enter-from,
+  .slide-fade-leave-to {
+    transform: translateX(20px);
+    opacity: 0;
+  }
 </style>

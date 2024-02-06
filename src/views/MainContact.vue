@@ -21,8 +21,8 @@
     <section class="pt-5">
       <p class="lg:text-lg text-sm text-justify leading-6">
         You can reach me by emailing me at
-        <strong>aaronlyn88@gmail.com</strong>. I will be able to reply to your
-        mail within 2 days of working days.
+        <strong>adhamm.elsharkawyy@gmail.com</strong>. I will be able to reply
+        to your mail within 2 days of working days.
       </p>
     </section>
     <br />
@@ -34,7 +34,9 @@
         >
         to view my works. Alternatively, you can visit my
         <strong class="underline"
-          ><a href="https://github.com/Kuon-dev">Github Profile</a></strong
+          ><a href="https://github.com/AdhamElsharkawy"
+            >Github Profile</a
+          ></strong
         >
         to view my projects posted on Github
       </p>

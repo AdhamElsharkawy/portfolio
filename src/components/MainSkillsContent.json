@@ -3,10 +3,6 @@
         "type": "frontend",
         "technologies": [
             {
-                "title": "React",
-                "image": "devicon-react-original"
-            },
-            {
                 "title": "Vue",
                 "image": "devicon-vuejs-plain"
             },
@@ -27,6 +23,14 @@
                 "image": "devicon-css3-plain"
             },
             {
+                "title": "Sass",
+                "image": "devicon-sass-original"
+            },
+            {
+                "title": "Bootstrap",
+                "image": "devicon-bootstrap-plain"
+            },
+            {
                 "title": "Tailwind",
                 "image": "devicon-tailwindcss-plain"
             }
@@ -36,24 +40,24 @@
         "type": "backend",
         "technologies": [
             {
-                "title": "Python",
-                "image": "devicon-python-plain"
+                "title": "PHP",
+                "image": "devicon-php-plain"
             },
             {
-                "title": "Node",
-                "image": "devicon-nodejs-plain"
-            },
-            {
-                "title": "Java",
-                "image": "devicon-java-plain"
-            },
-            {
-                "title": "MongoDB",
-                "image": "devicon-mongodb-plain"
+                "title": "Mysql",
+                "image": "devicon-mysql-plain"
             },
             {
                 "title": "Laravel",
                 "image": "devicon-laravel-plain"
+            },
+            {
+                "title": "Nginx",
+                "image": "devicon-nginx-original"
+            },
+            {
+                "title": "Apache",
+                "image": "devicon-apache-plain"
             }
         ]
     },
@@ -61,20 +65,28 @@
         "type": "tools",
         "technologies": [
             {
-                "title": "Markdown",
-                "image": "devicon-markdown-original"
+                "title": "Git",
+                "image": "devicon-git-plain"
             },
             {
-                "title": "Vim",
-                "image": "devicon-vim-plain"
+                "title": "Github",
+                "image": "devicon-github-plain"
             },
             {
-                "title": "Figma",
-                "image": "devicon-figma-plain"
+                "title": "Gitlab",
+                "image": "devicon-gitlab-plain"
             },
             {
-                "title": "Linux (Arch)",
-                "image": "devicon-linux-plain"
+                "title": "VSCode",
+                "image": "devicon-visualstudio-plain"
+            },
+            {
+                "title": "Docker",
+                "image": "devicon-docker-plain"
+            },
+            {
+                "title": "Postman",
+                "image": "devicon-postman-plain"
             }
         ]
     }

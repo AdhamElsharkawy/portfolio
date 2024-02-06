@@ -9,7 +9,7 @@
         </h2>
         <br />
         <p class="lg:text-lg text-sm text-justify leading-6">
-          &nbsp;&nbsp;&nbsp;&nbsp; Aaron is a full-stacked developer focused on
+          &nbsp;&nbsp;&nbsp;&nbsp; Adham is a full-stacked developer focused on
           <strong> VueJS and PHP Laravel </strong>. He also possess soft skills
           to further enhance himself as a web developer with skills such as
           communication skills, creativity, problem solving, and adaptability.
